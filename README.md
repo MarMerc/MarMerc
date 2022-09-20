@@ -4,8 +4,8 @@
 </div>  
   
 
-                                                      ### <div align="center">✨ Hy!  ✨
-                                I'm Mariana, a Information Systems Engineer🚀 and full-stack developer 👨‍💻 </div>  
+                                                                          ✨ Hy!  ✨
+                                          I'm Mariana, a Information Systems Engineer🚀 and full-stack developer 👨‍💻
   
 
 - ⭐ SoyIngeniera en Sistemas de Informacion y Desarrolladora Full Stack ✨
