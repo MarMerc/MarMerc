@@ -4,38 +4,30 @@
 </div>  
   
 
-### <div align="center">✨ Hy!  ✨
-I'm Mariana, a Information Systems Engineer🚀 and full-stack developer 👨‍💻 </div>  
+                                                      ### <div align="center">✨ Hy!  ✨
+                                I'm Mariana, a Information Systems Engineer🚀 and full-stack developer 👨‍💻 </div>  
   
 
 - ⭐ SoyIngeniera en Sistemas de Informacion y Desarrolladora Full Stack ✨
 
-🖥️ Aunque no soy nueva en el mundo de la programación, comienza una nueva etapa dedicada absolutamente a perfeccionarme en esta area y darlo todo por ser la mejor en lo que hago.
+- 🖥️ Aunque no soy nueva en el mundo de la programación, comienza una nueva etapa dedicada absolutamente a perfeccionarme en esta area y darlo todo por ser la mejor en lo que hago.💯
 
-❔ Soy apasionada por el fronten y por el backend, aunque no he podido decidir entre ambos,  confio que la experiencia marcara mi camino a seguir.
+- ❔ Soy apasionada por el fronten y por el backend, aunque no he podido decidir entre ambos,  confio que la experiencia marcara mi camino a seguir.
 
-🍀 Lo que mas amo de este mundo Tech es el requerimiento de una constante capacitacion, lo que es para mi muy motivador y me mantiene siempre activa.
+- 📖 Lo que mas amo de este mundo Tech es el requerimiento de una constante capacitacion, lo que es para mi muy motivador y me mantiene siempre activa.
 
-👀 Otro dato sobre mí :  Tambien fui docente de escuelas medias con formacion Tecnica, en el area Analisis Matematico durante los ultimos 9 años. Desde este lugar contribui en el desarrollo de los talleres de robotica.
+- 👩‍🏫 Otro dato sobre mí :  Tambien fui docente de escuelas medias con formacion Tecnica, en el area Analisis Matematico durante los ultimos 9 años. Desde este lugar contribui en el desarrollo de los talleres de robotica.🦾
 
-💜 Gracias por visitar mi perfil 💜, mas abajo encontraran los proyectos en los que he trabajado hasta ahora.  
+- 👩‍💻 Actualmente sigo capacitándome y aprendiendo nuevas tecnologías   
   
-
-- ⚙️ Actualmente sigo capacitándome y aprendiendo nuevas tecnologías   
-  
-
-- 🏞️Que disfruto hacer en mi tiempo libre? 🧉Compartir en familia y viajar.🏖️  
-  
+- 🛣️Que disfruto hacer en mi tiempo libre? 🧉Compartir en familia y viajar.🌵
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
+<table><tr>
+</td><td valign="top" width="100%">
 
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -57,8 +49,6 @@ I'm Mariana, a Information Systems Engineer🚀 and full-stack developer 👨‍
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
@@ -76,6 +66,7 @@ I'm Mariana, a Information Systems Engineer🚀 and full-stack developer 👨‍
 </a>  
 </div>  
   
+  
 
 <br/>  
 
@@ -83,6 +74,11 @@ I'm Mariana, a Information Systems Engineer🚀 and full-stack developer 👨‍
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MarMerc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>  
+
+                                                            💜 Gracias por visitar mi perfil 💜
+                                              Abajo encontraran algunos de los proyectos en los que he trabajado hasta ahora.  
+  
 <br/>  
 
 
