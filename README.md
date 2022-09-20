@@ -76,10 +76,6 @@
 
 <br/>  
 
-                                                            💜 Gracias por visitar mi perfil 💜
-                                              Abajo encontraran algunos de los proyectos en los que he trabajado hasta ahora.  
-  
-<br/>  
 
 
 ## Recent Blog Posts  
@@ -101,5 +97,8 @@
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+                                                            💜 Gracias por visitar mi perfil 💜
+                                              Abajo encontraran algunos de los proyectos en los que he trabajado hasta ahora.  
+  
+<br/>  
+
